@@ -17,6 +17,7 @@ sassdoc
 
 # dependencies
 /node_modules
+.angular/cache/14.2.1/angular-webpack/
 
 # profiling files
 chrome-profiler-events.json
